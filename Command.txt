@@ -5,3 +5,21 @@ git add MyFile.txt
 git status
 git add InfoFile1.txt
 git add InfoFile2.txt
+
+this is the command to change your username in git.
+git config user.name "Ranjeet_INFO"
+Explanation: This command updates the Git username specifically for this repository by adding _INFO at the end of the username.
+
+git add Command.txt
+git commit -m "Added Command.txt with Git username update documentation"
+
+
+git status
+
+This command shows:
+- Which files are tracked/untracked
+- Which files have changes
+- Which files are staged for commit
+- The current branch we're working on
+
+I checked the repository state to see all tracked and untracked files and changes that need to be committed.
