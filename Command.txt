@@ -1,0 +1,7 @@
+git init
+git add MyFile.txt
+
+
+git status
+git add InfoFile1.txt
+git add InfoFile2.txt
